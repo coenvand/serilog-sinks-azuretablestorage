@@ -2,7 +2,7 @@
 using System.Runtime.CompilerServices;
 
 [assembly: AssemblyTitle("Serilog.Sinks.AzureTableStorage")]
-[assembly: AssemblyDescription("Serilog sink for Azure Table Storage")]
+[assembly: AssemblyDescription("Serilog sink for Azure Table Storage for .NET Standard")]
 [assembly: AssemblyCopyright("Copyright © Serilog Contributors 2013")]
 
 [assembly: InternalsVisibleTo("Serilog.Tests, PublicKey=0024000004800000940000000602000000240000525341310004000001000100fb8d13fd344a1c" +
